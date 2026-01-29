@@ -1,5 +1,7 @@
 # Curso GIT & GitHub 2026
-
 um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos, além de trabalhar com gitflow e vs
 
-confira no youtube do teo
+é isso
+
+mds que dificuldade vei
+vou fazer so essas duas linhas
