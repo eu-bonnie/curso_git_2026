@@ -1,1 +1,3 @@
 contém comandos secundários para git
+comandos mais genéricos
+comandos mais humanos
